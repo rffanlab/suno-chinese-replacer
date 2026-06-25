@@ -54,6 +54,7 @@ description: "Replaces sensitive or unsuitable words in Suno prompts or lyrics. 
 - `著` 替换为 `助`
 - `炁` 替换为 `气`
 - `蜇` 替换为 `哲`
+- `祛` 替换为 `区`
 
 ## 使用说明
 
