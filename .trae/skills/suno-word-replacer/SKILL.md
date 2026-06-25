@@ -52,6 +52,8 @@ description: "Replaces sensitive or unsuitable words in Suno prompts or lyrics. 
 - `妇` 替换为 `富`
 - `榄` 替换为 `览`
 - `著` 替换为 `助`
+- `炁` 替换为 `气`
+- `蜇` 替换为 `哲`
 
 ## 使用说明
 
