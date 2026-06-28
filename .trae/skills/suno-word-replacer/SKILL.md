@@ -56,6 +56,7 @@ description: "Replaces sensitive or unsuitable words in Suno prompts or lyrics. 
 - `蜇` 替换为 `哲`
 - `祛` 替换为 `区`
 - `斛` 替换为 `胡`
+- `炷` 替换为 `注`
 
 ## 使用说明
 
