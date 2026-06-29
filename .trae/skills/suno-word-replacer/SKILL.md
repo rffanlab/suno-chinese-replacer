@@ -60,6 +60,7 @@ description: "Replaces sensitive or unsuitable words in Suno prompts or lyrics. 
 - `谒` 替换为 `叶`
 - `橐籥` 替换为 `驼越`
 - `圭` 替换为 `归`
+- `薰` 替换为 `勋`
 
 ## 使用说明
 
