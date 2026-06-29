@@ -59,6 +59,7 @@ description: "Replaces sensitive or unsuitable words in Suno prompts or lyrics. 
 - `炷` 替换为 `注`
 - `谒` 替换为 `叶`
 - `橐籥` 替换为 `驼越`
+- `圭` 替换为 `归`
 
 ## 使用说明
 
