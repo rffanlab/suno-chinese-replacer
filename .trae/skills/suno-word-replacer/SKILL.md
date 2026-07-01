@@ -63,6 +63,7 @@ description: "Replaces sensitive or unsuitable words in Suno prompts or lyrics. 
 - `薰` 替换为 `勋`
 - `廛` 替换为 `缠`
 - `还丹` 替换为 `环丹`
+- `𬙎` 替换为 `卢`
 
 ## 使用说明
 
