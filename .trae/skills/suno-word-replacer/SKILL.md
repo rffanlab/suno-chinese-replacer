@@ -80,8 +80,7 @@ description: "Replaces sensitive or unsuitable words in Suno prompts or lyrics. 
 
 1. 先识别输入文本是否用于 Suno。
 2. 命中本技能适用场景时，优先应用替换规则。
-3. 替换后保持原句语义尽量自然，如有必要可顺带做轻微润色。
-4. 若后续用户继续补充新的替换词，直接在本技能中追加规则。
+3. 若后续用户继续补充新的替换词，直接在本技能中追加规则。
 
 ## 示例
 
