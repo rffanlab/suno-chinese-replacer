@@ -75,6 +75,7 @@ description: "Replaces sensitive or unsuitable words in Suno prompts or lyrics. 
 - `恼` 替换为 `脑`
 - `庐` 替换为 `卢`
 - `𬬻` 替换为 `卢`
+- `岱` 替换为 `代`
 
 ## 使用说明
 
