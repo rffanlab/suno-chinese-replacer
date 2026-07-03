@@ -76,6 +76,7 @@ description: "Replaces sensitive or unsuitable words in Suno prompts or lyrics. 
 - `庐` 替换为 `卢`
 - `𬬻` 替换为 `卢`
 - `岱` 替换为 `代`
+- `眦` 替换为 `资`
 
 ## 使用说明
 
