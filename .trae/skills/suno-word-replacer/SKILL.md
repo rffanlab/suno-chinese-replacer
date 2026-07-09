@@ -79,6 +79,7 @@ description: "Replaces sensitive or unsuitable words in Suno prompts or lyrics. 
 - `眦` 替换为 `资`
 - `婢` 替换为 `闭`
 - `寰` 替换为 `环`
+- `楫` 替换为 `急`
 
 ## 使用说明
 
