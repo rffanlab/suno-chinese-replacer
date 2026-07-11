@@ -80,6 +80,8 @@ description: "Replaces sensitive or unsuitable words in Suno prompts or lyrics. 
 - `婢` 替换为 `闭`
 - `寰` 替换为 `环`
 - `楫` 替换为 `急`
+- `还神` 替换为 `环神`
+- `还虚` 替换为 `环虚`
 
 ## 使用说明
 
