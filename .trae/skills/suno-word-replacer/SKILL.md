@@ -83,6 +83,7 @@ description: "Replaces sensitive or unsuitable words in Suno prompts or lyrics. 
 - `还神` 替换为 `环神`
 - `还虚` 替换为 `环虚`
 - `浣纱` 替换为 `换纱`
+- `瓯` 替换为 `欧`
 
 ## 使用说明
 
