@@ -84,6 +84,7 @@ description: "Replaces sensitive or unsuitable words in Suno prompts or lyrics. 
 - `还虚` 替换为 `环虚`
 - `浣纱` 替换为 `换纱`
 - `瓯` 替换为 `欧`
+- `砚` 替换为 `艳`
 
 ## 使用说明
 
