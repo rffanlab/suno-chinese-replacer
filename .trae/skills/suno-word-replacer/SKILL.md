@@ -85,6 +85,7 @@ description: "Replaces sensitive or unsuitable words in Suno prompts or lyrics. 
 - `浣纱` 替换为 `换纱`
 - `瓯` 替换为 `欧`
 - `砚` 替换为 `艳`
+- `焕` 替换为 `换`
 
 ## 使用说明
 
